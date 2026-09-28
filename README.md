@@ -2,7 +2,7 @@
 
 ## Natan:
 
-- Natan Nunes Lima is a brazilian young programmer and student, he has 18 years old and born in september 25,
+- Natan Nunes Lima is a brazilian young programmer and student, he is 18 years old and born in september 25,
 He studes on SESI-SP and SENAI-SP.
 
 # My competences:
