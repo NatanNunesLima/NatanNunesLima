@@ -16,4 +16,4 @@ He studes on SESI-SP and SENAI-SP.
 ## Not relatable competences:
 - Actor.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NatanNunesLima&hide_progress=true&langs_count=4&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=NatanNunesLima&hide_progress=true&langs_count=4&hide_values=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NatanNunesLima&hide_progress=true&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=NatanNunesLima&hide_progress=true&langs_count=4&hide_values=true&theme=dark)
