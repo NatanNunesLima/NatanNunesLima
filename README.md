@@ -16,4 +16,4 @@ He studes on SESI-SP and SENAI-SP.
 ## Not relatable competences:
 - Actor.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NatanNunesLima)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NatanNunesLima=radical)](https://github.com/stats-organization/github-stats-extended)
